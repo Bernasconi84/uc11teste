@@ -1,0 +1,10 @@
+package testeSenai;
+
+import org.junit.Before;
+import org.openqa.selenium.WebDriver;
+
+public class testeBuscaCursos {
+ private WebDriver driver;
+}
+
+@Before
